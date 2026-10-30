@@ -2,6 +2,8 @@
 
 ![SkyNow screenshot](screenshot.png)
 
+**Live demo:** https://skynow-weather-bay.vercel.app/
+
 A responsive weather app built with plain HTML, CSS and JavaScript (ES modules). No frameworks, no API key.
 
 ## Features
